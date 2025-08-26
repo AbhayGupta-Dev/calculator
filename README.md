@@ -63,7 +63,7 @@ Abhay Gupta
 
 [![GitHub Release](https://img.shields.io/github/v/release/AbhayGupta-Dev/calculator?style=for-the-badge&logo=github)](https://github.com/AbhayGupta-Dev/calculator/releases/latest)
 
-
+⚡ Note: Windows may display a SmartScreen warning because this app is from an independent developer and not digitally signed. Please click “More info” → “Run anyway” to continue. This application is safe and will not harm your PC.
 
 
 ⭐ If you like this project, don’t forget to give it a star on GitHub!
