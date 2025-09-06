@@ -20,6 +20,17 @@ Perfect for beginners who want to learn Python and GUI programming.
 
 ---
 
+## 🚀 Getting Started
+
+clone using the web URL (https://github.com/AbhayGupta-Dev/calculator.git)
+
+Install dependencies from requriment.txt
+
+Run the app python main.py
+
+
+---
+
 📌 Future Improvements
 
 Scientific calculator functions
